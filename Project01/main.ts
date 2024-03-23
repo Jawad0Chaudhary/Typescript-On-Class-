@@ -18,7 +18,7 @@ console.log(typeof age);
 console.log(age);
 
 //Primitive data types: String, Boolean, Number.
-let firstName:string = "Jawad"
+let firstName:string = "Jawad";
 console.log(firstName);
 
 let age1:number = 20;
